@@ -17,5 +17,3 @@ df_consolidado.to_parquet('df_consolidado.parquet', engine='pyarrow')
 
 df_parquet = pd.read_parquet('df_consolidado.parquet')
 
-print(df_parquet.head())
-
