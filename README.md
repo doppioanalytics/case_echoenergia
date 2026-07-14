@@ -56,7 +56,7 @@ A proposta é entender se eventos de grande porte, como a Copa do Mundo, impacta
 
 ---
 
-## 🚀 Como Reproduzir
+## Como Reproduzir
 
 1. Clone este repositório
 2. Abra o arquivo `.pbix` no Power BI Desktop
@@ -66,7 +66,7 @@ A proposta é entender se eventos de grande porte, como a Copa do Mundo, impacta
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 ├── README.md
